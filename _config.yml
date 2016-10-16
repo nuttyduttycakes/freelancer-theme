@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
+title: Nutty Dutty Cakes
+email: website@nuttyduttycakes.co.uk
+url: https://www.nuttyduttycakes.co.uk
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Beautiful cakes, whatever the occasion"
+meta_author: Dutton Emma
 
 # Google webmaster tools
 google_verify:
@@ -24,15 +24,15 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: ffe6e6 # Colour behind logo at top
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  secondary: e6ffe6 # Header bar background
+  secondary-dark: 336600 # Highlighted header bar menu
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Emma Dutton
+  location: UK
   social: Around the Web
   credits: Credits
 
