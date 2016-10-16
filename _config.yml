@@ -24,10 +24,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: ffe6e6 # Colour behind logo at top
+  primary: FCFCF7 # Colour behind logo at top
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: e6ffe6 # Header bar background
-  secondary-dark: 336600 # Highlighted header bar menu
+  secondary: F5B8CD # Header bar background
+  secondary-dark: F57AA5 # Highlighted header bar menu
 
 # Footer settings
 footer:
