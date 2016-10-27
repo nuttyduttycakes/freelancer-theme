@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 11
+date: 2014-07-18
+img: IMG_4417.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: This was a vanilla sponge cake filled with jam and buttercream and covered in fondant. All of the elements were handmade and edible.
+
+---

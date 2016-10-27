@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 12
+date: 2014-07-18
+img: IMG_4426.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: This was a christening cake, vanilla sponge, with jam and buttercream filling. The teddy and blocks were handmade from sugarpaste and fondant and all edible.
+
+---

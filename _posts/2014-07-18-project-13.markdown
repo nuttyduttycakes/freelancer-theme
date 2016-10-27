@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 13
+date: 2014-07-18
+img: IMG_4918.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: This two tier cake was a vanilla sponge with jam and buttercream on the bottom tier. The top tier was a rainbow cake with five layers all in different bright colours. It was covered in fondant with the bottom layer made to have a chalkboard effect. It was a thank you from two young boys who wrote their own names and this was added to the chalkboard lower tier. The decorations were all made from sugarpaste and fondant and were edible.
+
+---

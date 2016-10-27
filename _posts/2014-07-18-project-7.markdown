@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 7
+date: 2014-07-18
+img: IMG_0008.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Well, this is where it all began! This was my son’s first birthday cake and started my passion for making cakes. Whilst making this cake was very stressful (I didn’t have a clue!) I absolutely loved it.
+
+---
