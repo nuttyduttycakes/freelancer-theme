@@ -184,7 +184,7 @@ section h2 {
     font-size: 3em;
 }
 
-section.success {
+section.darker {
     color: #{{ site.color.secondary }};
     background: #{{ site.color.primary }};
 }
