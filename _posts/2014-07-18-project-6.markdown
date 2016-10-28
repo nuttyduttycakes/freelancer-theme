@@ -4,9 +4,6 @@ modal-id: 6
 date: 2014-07-18
 img: IMG_0002.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: This was a three layer chocolate sponge, with chocolate buttercream. The middle layer had the middle removed and filled with sweets so when it was cut open the sweets spilled out. The decorations were all made with sugarpaste and edible.
 
 ---

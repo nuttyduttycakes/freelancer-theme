@@ -4,9 +4,6 @@ modal-id: 3
 date: 2014-07-18
 img: IMG_6047.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: This was a three layer chocolate sponge cake with a pink buttercream filling. It was decorated with different shades of pink buttercream roses and edible balls and lustre dust to add a little sparkle.
 
 ---

@@ -4,9 +4,6 @@ modal-id: 5
 date: 2014-07-18
 img: IMG_0001.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: This was for my son’s 4th birthday. He wanted something big and loves Spiderman, so I made a life size Spiderman head. I had a 6 week old newborn, so I used a polystyrene head to achieve the effect with a chocolate sponge and chocolate buttercream body. The whole thing was covered in fondant with the webs painted on.
 
 ---

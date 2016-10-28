@@ -4,9 +4,6 @@ modal-id: 2
 date: 2014-07-18
 img: IMG_0072.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: This was a two tier vanilla sponge cake filled with jam and buttercream and covered with fondant. All of the cake was edible, including the handmade sugarpaste tiara.
 
 ---

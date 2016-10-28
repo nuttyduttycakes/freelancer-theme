@@ -4,9 +4,6 @@ modal-id: 4
 date: 2014-07-18
 img: IMG_0088.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: This was a two tier vanilla sponge cake with with jam and buttercream. The bottom tier was covered in fondant and the top tier was covered in pink buttercream and pink and purple sprinkles. The pony was made from sugarpaste and the stars were coated in lustre dust to make them sparkle.
 
 ---
